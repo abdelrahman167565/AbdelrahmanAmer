@@ -12,7 +12,7 @@ Skills: Java,C++,C#, ADF, Design patterns, Agile, Algorithms, Data Structures , 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abdelrahman167565)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/abdelrahman-khaled-amer-04b9b81a3//)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=abdelrahman167565)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahman167565)](https://github.com/anuraghazra/github-readme-stats)
 
