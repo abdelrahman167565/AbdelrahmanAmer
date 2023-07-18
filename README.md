@@ -5,7 +5,7 @@ Effective communicator with proficiency in English. seeking to pursue an opportu
 Skills: Java,C++,C#, ADF, Design patterns, Agile, Algorithms, Data Structures , SQL , Problem Solving, , Mongo Db, OOP, HTML, CSS.
 
 - 🔭 I’m currently working as ADF developer & implementation specialist in Ithmaar integrated solutions 
-- 🌱 I’m currently learning Flutter 
+- 🌱 I’m currently learning React & .Net core
 - 👯 I’m looking to collaborate on mobile developing  
 - 📫 How to reach me: abdelrahman.amer1999@gmail.com 
 
