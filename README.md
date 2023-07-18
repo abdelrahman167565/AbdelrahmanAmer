@@ -6,7 +6,7 @@ Skills: Java,C++,C#, ADF, Design patterns, Agile, Algorithms, Data Structures , 
 
 - 🔭 I’m currently working as ADF developer & implementation specialist in Ithmaar integrated solutions 
 - 🌱 I’m currently learning React & .Net core
-- 👯 I’m looking to collaborate on mobile developing  
+- 👯 I’m looking to for a positing as a Software Engineer
 - 📫 How to reach me: abdelrahman.amer1999@gmail.com 
 
 
